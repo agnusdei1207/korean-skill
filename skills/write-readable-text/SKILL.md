@@ -11,7 +11,6 @@ description: 한국어로 쓰는 모든 경우와 사람이 읽는 모든 글(�
 
 ## 함께 쓰는 스킬
 
-- [담백한 사실 문체](../plain-factual-style/SKILL.md): 문체·어휘, 마크다운의 굵은 표기와 인라인 HTML 서식 금지.
 - [읽기 쉬운 한국어 문장](../readable-korean-sentences/SKILL.md): 한국어 문장 교정.
 - [문장결 — 흐름과 변주](../prose-flow-and-variation/SKILL.md): 문단 흐름, 문장 변주, 반복 통제.
 
