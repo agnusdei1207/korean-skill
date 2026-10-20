@@ -11,6 +11,7 @@ description: 한국어로 쓰는 모든 경우와 사람이 읽는 모든 글(�
 
 ## 함께 쓰는 스킬
 
+- [번역투 없는 한국어](../avoid-translationese/SKILL.md): 번역투 교정.
 - [읽기 쉬운 한국어 문장](../readable-korean-sentences/SKILL.md): 한국어 문장 교정.
 - [문장결 — 흐름과 변주](../prose-flow-and-variation/SKILL.md): 문단 흐름, 문장 변주, 반복 통제.
 
